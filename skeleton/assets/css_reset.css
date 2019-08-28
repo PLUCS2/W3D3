@@ -1,0 +1,62 @@
+p {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+  color: inherit; 
+  font-family: inherit;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+  color: inherit; 
+  font-family: inherit;
+  line-height: 1.5em;
+}
+
+h1 {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+  color: inherit; 
+  font-family: inherit;
+}
+
+h2 {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+  color: inherit; 
+  font-family: inherit;
+}
+
+ol {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+  color: inherit; 
+  font-family: inherit;
+  list-style-type: none;
+}
+
+ul {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+  color: inherit; 
+  font-family: inherit;
+  list-style-type: none;
+}
+
+figure {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+  color: inherit; 
+  font-family: inherit;
+}
+
+img {
+  width: 100%;
+}
